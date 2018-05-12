@@ -1,4 +1,8 @@
 _repo: Information-for-the-Guidance-of-Field-Men-and-Cooperators-of-the-Bureau-of-Biological-Survey-__48709
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48709-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Redington, Paul G.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44407'
     url: http://www.gutenberg.org/2009/agents/44407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48709#Information-for-the-Guidance-of-Field-Men-and-Cooperators-of-the-Bureau-of-Biological-Survey-_
 gutenberg_issued: '2015-04-15'
 gutenberg_type: Text
 identifiers:
